@@ -2,4 +2,5 @@
 coverage.out
 coverage.html
 dist/*
-cache/*
+cache/testdata/*
+mailer/testdata/*
